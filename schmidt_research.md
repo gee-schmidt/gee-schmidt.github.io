@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Home"
+title: "Research"
 ---
 
-Homepage for site test 
+research page test

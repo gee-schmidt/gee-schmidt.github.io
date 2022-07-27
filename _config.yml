@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "schmidt_about.md",title: About}
   - {file: "schmidt_research.md", title: Research}
   - {file: "blog.md",title: Blog}
-  - {file: "schmidt_cv.pdf, title: CV}
+  - {file: "cv.md, title: CV}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:gschmidt@sdsu.edu"}
